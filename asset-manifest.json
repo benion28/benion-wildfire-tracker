@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/benion-wildfire-tracker/static/css/main.27f03e51.chunk.css",
+    "main.js": "/benion-wildfire-tracker/static/js/main.6ea31419.chunk.js",
+    "main.js.map": "/benion-wildfire-tracker/static/js/main.6ea31419.chunk.js.map",
+    "runtime-main.js": "/benion-wildfire-tracker/static/js/runtime-main.9c62dd62.js",
+    "runtime-main.js.map": "/benion-wildfire-tracker/static/js/runtime-main.9c62dd62.js.map",
+    "static/js/2.6a3bc626.chunk.js": "/benion-wildfire-tracker/static/js/2.6a3bc626.chunk.js",
+    "static/js/2.6a3bc626.chunk.js.map": "/benion-wildfire-tracker/static/js/2.6a3bc626.chunk.js.map",
+    "index.html": "/benion-wildfire-tracker/index.html",
+    "static/css/main.27f03e51.chunk.css.map": "/benion-wildfire-tracker/static/css/main.27f03e51.chunk.css.map",
+    "static/js/2.6a3bc626.chunk.js.LICENSE.txt": "/benion-wildfire-tracker/static/js/2.6a3bc626.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c62dd62.js",
+    "static/js/2.6a3bc626.chunk.js",
+    "static/css/main.27f03e51.chunk.css",
+    "static/js/main.6ea31419.chunk.js"
+  ]
+}
